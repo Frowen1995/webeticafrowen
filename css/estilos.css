@@ -1,0 +1,21 @@
+
+section.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+footer {
+    
+    padding: 1em;
+    color: white;
+    background-color: #ec3d18;
+    clear: left;
+    text-align: center;
+}
+
+article {
+    margin-left: 170px;
+    
+    padding: 1em;
+    overflow: hidden;
+}
